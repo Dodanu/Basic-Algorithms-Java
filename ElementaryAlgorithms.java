@@ -145,7 +145,7 @@ public class ElementaryAlgorithms{
     3  3
     1
 
-    This is basically the same way we(humans) find prime the prime factors of number, meaning we divide them by the first prime factor(2), then the second, and so on, until the number becomes one.
+    This is basically the same way we(humans) find the prime factors of number, meaning we divide them by the first prime factor(2), then the second, and so on, until the number becomes one.
     */
     static void allPrimeFactors(int a)
     {
@@ -170,4 +170,5 @@ public class ElementaryAlgorithms{
         //prime(7);
         //allPrimeFactors(12);
     }
+
 }
